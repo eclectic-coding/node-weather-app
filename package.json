@@ -1,0 +1,8 @@
+{
+  "name": "node-weather-app",
+  "version": "1.0.0",
+  "description": "node weather app",
+  "main": "index.js",
+  "author": "Chuck Smith",
+  "license": "MIT"
+}
