@@ -2,7 +2,15 @@
   "name": "node-weather-app",
   "version": "1.0.0",
   "description": "node weather app",
-  "main": "index.js",
+  "main": "app.js",
   "author": "Chuck Smith",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
 }
